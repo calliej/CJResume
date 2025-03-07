@@ -1,1 +1,1 @@
-CJResume contains my resume, cover letter, and resources
+CJResume contains my resume, cover letter, and writing samples.
