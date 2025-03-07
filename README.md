@@ -1,2 +1,1 @@
-# CJResume
-Resume Resources
+CJResume contains my resume, cover letter, and resources
